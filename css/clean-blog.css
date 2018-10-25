@@ -230,6 +230,7 @@ header.masthead .site-heading .subheading {
   header.masthead .page-heading h1,
   header.masthead .site-heading h1 {
     font-size: 80px;
+    letter-spacing: -0.025em;
   }
 }
 
